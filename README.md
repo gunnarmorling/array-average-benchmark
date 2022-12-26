@@ -8,7 +8,7 @@ A JMH benchmark comparing different approaches for calculating the average of an
 mvn clean verify
 ```
 
-## Running the Benchmarl
+## Running the Benchmark
 
 ```
 java --add-modules src.incubator.vector target/benchmarks.jar
